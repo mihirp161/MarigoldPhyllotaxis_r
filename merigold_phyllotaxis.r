@@ -12,7 +12,7 @@ df <- data.frame(t, x, y)
 
 # create the  flower
 flower_plot <- ggplot(df, aes(x*t, y*t))
-flower_plot + geom_point(size=80, alpha=0.1, shape = 1, color= "orange4")+ 
+flower_plot + geom_point(size=80, alpha=0.1, shape = 1, color= "maroon")+ 
               theme(legend.position="none",
                 panel.background = element_rect(fill="white"),
                 panel.grid=element_blank(),
