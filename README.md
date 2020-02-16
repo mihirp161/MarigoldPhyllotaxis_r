@@ -1,10 +1,10 @@
 Project
 --------
-Marigold
+Imaginary Marigold
 
 Project Discription
 --------------------
-Drawing a marigold with Phyllotaxis technique.
+Drawing a marigold with spiral graphing technique.
 
 Langauge
 ---------
