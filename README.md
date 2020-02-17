@@ -4,7 +4,7 @@ Imaginary Marigold
 
 Project Discription
 --------------------
-Drawing a marigold with spiral graphing technique.
+Drawing a marigold with spiral technique for my love Fatima Sana Shaikh.
 
 Langauge
 ---------
