@@ -18,6 +18,10 @@ Author
 ------
 Mihir Patel
 
+Inspiration
+------------
+Antonio S. Chinchon
+
 Reading Source
 ------
 [Spirals and phyllotaxis](https://www.princeton.edu/~akosmrlj/MAE545_S2017/lecture12_slides.pdf)
