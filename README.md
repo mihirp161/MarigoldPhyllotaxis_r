@@ -22,6 +22,10 @@ Inspiration
 ------------
 Antonio S. Chinchon
 
+blog
+-----
+[Read my blog here!](https://opendatasurgeon.github.io/marigold/)
+
 Reading Source
 ------
 [Spirals and phyllotaxis](https://www.princeton.edu/~akosmrlj/MAE545_S2017/lecture12_slides.pdf)
