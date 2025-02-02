@@ -24,7 +24,7 @@ Antonio S. Chinchon
 
 blog
 -----
-[Read my blog here!](https://opendatasurgeon.github.io/marigold/)
+[Read my blog here!](https://mihirp161.github.io/marigold/)
 
 Reading Source
 ------
